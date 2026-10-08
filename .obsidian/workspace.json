@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cf1de0d068e645d0",
+        "id": "79f591d916937529",
         "type": "tabs",
         "children": [
           {
-            "id": "de91e3d9bf4013de",
+            "id": "ae0dc6b3cd1981ca",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/MESA DE TRABAJO/01.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "01.excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -180,7 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,46 +194,46 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "0741932eb4d3fd9a",
+  "active": "191ca7443f312da9",
   "lastOpenFiles": [
-    "AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/PROPIO/02.md",
-    "AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/MESA DE TRABAJO/01.excalidraw.md",
-    "AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/PROPIO/Pasted Image 20260924095139_114.png",
-    "ABENOJAR TUNGSTEN SA/MESA DE TRABAJO/01.excalidraw.md",
-    "ABENOJAR TUNGSTEN SA/MATERIAL/01.md",
-    "SISTEMA DE LA EMPRESA/MESA DE TRABAJO/01.excalidraw.md",
-    "FELIPE MERINO CALLEJAS TRANSPORTES SL/MESA DE TRABAJO/01.excalidraw.md",
-    "FELIPE MERINO CALLEJAS TRANSPORTES SL/MATERIAL/WhatsApp Image 2026-08-27 at 12.24.00.jpeg",
-    "CAMINERO & PRADO ASOCIADOS SL/proceso para el servicio.md",
-    "CAMINERO & PRADO ASOCIADOS SL/windos.md",
+    "09-26/ABENOJAR TUNGSTEN SA/MATERIAL/01.md",
+    "09-26/ABENOJAR TUNGSTEN SA/MESA DE TRABAJO/01.excalidraw.md",
+    "09-26/CAMINERO & PRADO ASOCIADOS SL/01.excalidraw.md",
+    "09-26/CAMINERO & PRADO ASOCIADOS SL/proceso para el servicio.md",
+    "09-26/CAMINERO & PRADO ASOCIADOS SL/windos.md",
+    "08-26/FELIPE MERINO CALLEJAS TRANSPORTES SL/MESA DE TRABAJO/01.excalidraw.md",
+    "09-26/AÑOS FUTUROS SL/WhatsApp Image 2026-09-17 at 10.35.22.jpeg",
+    "08-26",
+    "10-26",
+    "09-26",
+    "09-26/ABENOJAR TUNGSTEN SA/PROPIO/PROPUESTA DE SERVICO - ABENOJAR TUNGSTEN SA.pdf",
+    "09-26/CAMINERO & PRADO ASOCIADOS SL/material/Presupuesto_Cliente_Serie_55_Numero__20260917_100429.pdf",
+    "08-26/AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/MESA DE TRABAJO/01.excalidraw.md",
+    "08-26/AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/PROPIO/02.md",
+    "08-26/ASISTENCIA REMOTO/MATERIAL/WhatsApp Image 2026-09-02 at 13.13.49.jpeg",
+    "08-26/AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/PROPIO/Pasted Image 20260924095139_114.png",
+    "08-26/SISTEMA DE LA EMPRESA/MESA DE TRABAJO/01.excalidraw.md",
+    "08-26/FELIPE MERINO CALLEJAS TRANSPORTES SL/MATERIAL/WhatsApp Image 2026-08-27 at 12.24.00.jpeg",
     "conflict-files-obsidian-git.md",
-    "CAMINERO & PRADO ASOCIADOS SL/propio/Pasted image 20260922104848.png",
-    "CAMINERO & PRADO ASOCIADOS SL/propio/Pasted image 20260922104802.png",
-    "CAMINERO & PRADO ASOCIADOS SL/propio/Pasted image 20260922104757.png",
-    "CAMINERO & PRADO ASOCIADOS SL/propio/Pasted image 20260922104752.png",
-    "CAMINERO & PRADO ASOCIADOS SL/propio/Pasted image 20260922104748.png",
-    "CAMINERO & PRADO ASOCIADOS SL/propio/Pasted image 20260922104743.png",
-    "CAMINERO & PRADO ASOCIADOS SL/propio/Pasted image 20260922104738.png",
-    "CAMINERO & PRADO ASOCIADOS SL/propio/Pasted image 20260922104733.png",
-    "CAMINERO & PRADO ASOCIADOS SL/propio/01 montaje fisico.md",
-    "CAMINERO & PRADO ASOCIADOS SL/propio/02 configuracion RAID.md",
-    "CAMINERO & PRADO ASOCIADOS SL/propio/02",
-    "CAMINERO & PRADO ASOCIADOS SL/01.excalidraw.md",
-    "CAMINERO & PRADO ASOCIADOS SL/propio/01",
-    "CAMINERO & PRADO ASOCIADOS SL/propio",
-    "CAMINERO & PRADO ASOCIADOS SL/material/Presupuesto_Cliente_Serie_55_Numero__20260917_100429.pdf",
-    "AÑOS FUTUROS SL",
-    "CAMINERO & PRADO ASOCIADOS SL/material",
+    "09-26/CAMINERO & PRADO ASOCIADOS SL/propio/Pasted image 20260922104848.png",
+    "09-26/CAMINERO & PRADO ASOCIADOS SL/propio/Pasted image 20260922104802.png",
+    "09-26/CAMINERO & PRADO ASOCIADOS SL/propio/Pasted image 20260922104757.png",
+    "09-26/CAMINERO & PRADO ASOCIADOS SL/propio/Pasted image 20260922104752.png",
+    "09-26/CAMINERO & PRADO ASOCIADOS SL/propio/Pasted image 20260922104748.png",
+    "09-26/CAMINERO & PRADO ASOCIADOS SL/propio/Pasted image 20260922104743.png",
+    "09-26/CAMINERO & PRADO ASOCIADOS SL/propio/01 montaje fisico.md",
+    "09-26/CAMINERO & PRADO ASOCIADOS SL/propio/02 configuracion RAID.md",
+    "09-26/CAMINERO & PRADO ASOCIADOS SL/propio/02",
+    "09-26/CAMINERO & PRADO ASOCIADOS SL/propio/01",
+    "09-26/CAMINERO & PRADO ASOCIADOS SL/propio",
+    "09-26/AÑOS FUTUROS SL",
+    "09-26/CAMINERO & PRADO ASOCIADOS SL/material",
     "Sin título.md",
-    "CAMINERO & PRADO ASOCIADOS SL",
-    "SISTEMA DE LA EMPRESA/MATERIAL/Propuesta de Servicios IT - ABENOJAR TUNGSTEN SA.pdf",
-    "ASISTENCIA REMOTO/MESA DE TRABAJO/01.excalidraw.md",
-    "ABENOJAR TUNGSTEN SA/PROPIO/PROPUESTA DE SERVICO - ABENOJAR TUNGSTEN SA.pdf",
-    "ABENOJAR TUNGSTEN SA/MATERIAL/01",
-    "AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/PROPIO/01.md",
+    "08-26/ASISTENCIA REMOTO/MESA DE TRABAJO/01.excalidraw.md",
+    "08-26/AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/PROPIO/01.md",
     "El Moto/MESA DE TRABAJO/Drawing 2026-09-11 11.11.41.excalidraw.md",
     "El Moto/MATERIAL/01.md",
-    "SISTEMA DE LA EMPRESA/PROPIO/Sin título.md",
+    "08-26/SISTEMA DE LA EMPRESA/PROPIO/Sin título.md",
     "ASISTENCIA REMOTO/Sin título.canvas",
     "Excalidraw/Drawing 2026-09-02 11.57.38.excalidraw.md",
     "Excalidraw/Drawing 2026-09-02 11.57.13.excalidraw.md",
