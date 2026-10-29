@@ -11,13 +11,76 @@
             "id": "56d46f3ea12755a6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "type": "excalidraw",
+              "state": {
+                "file": "09-26/CAMINERO & PRADO ASOCIADOS SL/01.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "01.excalidraw"
+            }
+          },
+          {
+            "id": "e87271d32bf4eac5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "09-26/CAMINERO & PRADO ASOCIADOS SL/material/Presupuesto_Cliente_Serie_55_Numero__20260917_100429.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Presupuesto_Cliente_Serie_55_Numero__20260917_100429"
+            }
+          },
+          {
+            "id": "0b879587bfc02255",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "10-26/CAMINERO & PRADO ASOCIADOS SL/propio/Drawing 2026-10-29 13.50.10.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-10-29 13.50.10.excalidraw"
+            }
+          },
+          {
+            "id": "a975ce794ecff9a2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "09-26/CAMINERO & PRADO ASOCIADOS SL/01.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "01.excalidraw"
+            }
+          },
+          {
+            "id": "b92805d52d5576e8",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "09-26/ABENOJAR TUNGSTEN SA/PROPIO/PROPUESTA DE SERVICO - ABENOJAR TUNGSTEN SA.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "PROPUESTA DE SERVICO - ABENOJAR TUNGSTEN SA"
+            }
+          },
+          {
+            "id": "3a9f04d3ebba9a19",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "09-26/ABENOJAR TUNGSTEN SA/PROPIO/PROPUESTA DE SERVICO - ABENOJAR TUNGSTEN SA.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "PROPUESTA DE SERVICO - ABENOJAR TUNGSTEN SA"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -76,7 +139,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 569.5
   },
   "right": {
     "id": "bd4b7ee1851f0d42",
@@ -178,7 +241,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 460.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,20 +257,26 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "56d46f3ea12755a6",
+  "active": "0b879587bfc02255",
   "lastOpenFiles": [
     "09-26/CAMINERO & PRADO ASOCIADOS SL/material/Presupuesto_Cliente_Serie_55_Numero__20260917_100429.pdf",
+    "10-26/CAMINERO & PRADO ASOCIADOS SL/propio/Drawing 2026-10-29 13.50.10.excalidraw.md",
+    "10-26/CAMINERO & PRADO ASOCIADOS SL/propio",
+    "10-26/CAMINERO & PRADO ASOCIADOS SL/material/Informe Técnico de Puesta en Marcha y Configuración de Servidor HPE Proliant ML30 Gen11.pdf",
+    "10-26/CAMINERO & PRADO ASOCIADOS SL/material/Invoice6352997.pdf",
+    "10-26/CAMINERO & PRADO ASOCIADOS SL/material/Informe Técnico de Puesta en Marcha y Configuración de Servidor HPE Proliant ML30 Gen11.docx",
+    "10-26/CAMINERO & PRADO ASOCIADOS SL/material/FAC00002026212054 (1).pdf",
+    "10-26/CAMINERO & PRADO ASOCIADOS SL/material",
+    "10-26/CAMINERO & PRADO ASOCIADOS SL",
     "09-26/CAMINERO & PRADO ASOCIADOS SL/01.excalidraw.md",
     "09-26/CAMINERO & PRADO ASOCIADOS SL/proceso para el servicio.md",
-    "09-26/CAMINERO & PRADO ASOCIADOS SL/windos.md",
     "09-26/AÑOS FUTUROS SL/WhatsApp Image 2026-09-17 at 10.35.22.jpeg",
     "09-26/ABENOJAR TUNGSTEN SA/PROPIO/PROPUESTA DE SERVICO - ABENOJAR TUNGSTEN SA.pdf",
-    "09-26/ABENOJAR TUNGSTEN SA/MATERIAL/01.md",
     "09-26/ABENOJAR TUNGSTEN SA/MESA DE TRABAJO/01.excalidraw.md",
-    "08-26/FELIPE MERINO CALLEJAS TRANSPORTES SL/MESA DE TRABAJO/01.excalidraw.md",
-    "08-26",
+    "09-26/ABENOJAR TUNGSTEN SA/MATERIAL/01.md",
     "10-26",
-    "09-26",
+    "09-26/CAMINERO & PRADO ASOCIADOS SL/windos.md",
+    "08-26/FELIPE MERINO CALLEJAS TRANSPORTES SL/MESA DE TRABAJO/01.excalidraw.md",
     "08-26/AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/MESA DE TRABAJO/01.excalidraw.md",
     "08-26/AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/PROPIO/02.md",
     "08-26/ASISTENCIA REMOTO/MATERIAL/WhatsApp Image 2026-09-02 at 13.13.49.jpeg",
@@ -223,11 +292,6 @@
     "09-26/CAMINERO & PRADO ASOCIADOS SL/propio/Pasted image 20260922104743.png",
     "09-26/CAMINERO & PRADO ASOCIADOS SL/propio/01 montaje fisico.md",
     "09-26/CAMINERO & PRADO ASOCIADOS SL/propio/02 configuracion RAID.md",
-    "09-26/CAMINERO & PRADO ASOCIADOS SL/propio/02",
-    "09-26/CAMINERO & PRADO ASOCIADOS SL/propio/01",
-    "09-26/CAMINERO & PRADO ASOCIADOS SL/propio",
-    "09-26/AÑOS FUTUROS SL",
-    "09-26/CAMINERO & PRADO ASOCIADOS SL/material",
     "Sin título.md",
     "08-26/ASISTENCIA REMOTO/MESA DE TRABAJO/01.excalidraw.md",
     "08-26/AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/PROPIO/01.md",
@@ -240,7 +304,6 @@
     "Felipe Merino (Callejas Transportes S.L.)/Sin título.md",
     "VALENZUELA 2/MESA DE TRABAJO/02.excalidraw.md",
     "AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/MATERIALES/Copia_Web/www/wp-content/plugins/updraftplus/vendor/guzzle/guzzle/src/Guzzle/Iterator/README.md",
-    "AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/MATERIALES/Copia_Web/www/wp-content/themes/twentytwentytwo/assets/fonts/source-serif-pro/LICENSE.md",
-    "AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/MATERIALES/Copia_Web/www/wp-content/themes/twentytwentythree/assets/fonts/source-serif-pro/LICENSE.md"
+    "AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/MATERIALES/Copia_Web/www/wp-content/themes/twentytwentytwo/assets/fonts/source-serif-pro/LICENSE.md"
   ]
 }
