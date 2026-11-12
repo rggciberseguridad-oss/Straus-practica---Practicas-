@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "afeeb90ea8eddd94",
+        "id": "4f19640e809eb56b",
         "type": "tabs",
         "children": [
           {
-            "id": "c90e66453b1eb401",
+            "id": "e8e86480354649df",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "10-26/CAMINERO & PRADO ASOCIADOS SL/material/Informe Técnico de Puesta en Marcha y Configuración de Servidor.docx.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Informe Técnico de Puesta en Marcha y Configuración de Servidor.docx"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -198,6 +196,7 @@
   },
   "active": "191ca7443f312da9",
   "lastOpenFiles": [
+    "10-26/CAMINERO & PRADO ASOCIADOS SL/material/Informe Técnico de Puesta en Marcha y Configuración de Servidor.docx.pdf",
     "11-26/Rolando Gomez Gutierrez - 023-CT1-Alumno-Noviembre.docx",
     "scripts/generar_parte_mensual.py",
     "scripts",
@@ -209,7 +208,6 @@
     "10-26/OTROS/03 y 06 de 2026 estube en campo/WhatsApp Image 2026-11-06 at 10.17.34.jpeg",
     "10-26/OTROS/03 y 06 de 2026 estube en campo",
     "10-26/CAMINERO & PRADO ASOCIADOS SL/material/Pasted Image 20261112113207_288.png",
-    "10-26/CAMINERO & PRADO ASOCIADOS SL/material/Informe Técnico de Puesta en Marcha y Configuración de Servidor.docx.pdf",
     "10-26/CAMINERO & PRADO ASOCIADOS SL/propio/Drawing 2026-10-29 13.50.10.excalidraw.md",
     "10-26/CAMINERO & PRADO ASOCIADOS SL/propio/01.excalidraw.md",
     "cronograma.pdf",
