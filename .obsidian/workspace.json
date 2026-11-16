@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4f19640e809eb56b",
+        "id": "89be979160ed9f32",
         "type": "tabs",
         "children": [
           {
-            "id": "e8e86480354649df",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "10-26/OTROS/02-10-26/WhatsApp Image 2026-09-30 at 12.17.12.jpeg"
-              },
-              "icon": "lucide-image",
-              "title": "WhatsApp Image 2026-09-30 at 12.17.12"
-            }
-          },
-          {
-            "id": "3acb7c3653854399",
+            "id": "d90594009b85c57a",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "08-26/AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/MESA DE TRABAJO/01.excalidraw.md"
+                "file": "10-26/CAMINERO & PRADO ASOCIADOS SL/propio/Drawing 2026-10-29 13.50.10.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "01.excalidraw"
+              "title": "Drawing 2026-10-29 13.50.10.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,39 +196,40 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "3acb7c3653854399",
+  "active": "0741932eb4d3fd9a",
   "lastOpenFiles": [
-    "08-26/AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/PROPIO/02.md",
-    "08-26/AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/MESA DE TRABAJO/01.excalidraw.md",
+    "11-26/CAMINERO & PRADO ASOCIADOS SL/material/Informe Técnico Actualizado.docx",
+    "11-26/CAMINERO & PRADO ASOCIADOS SL/material",
+    "11-26/CAMINERO & PRADO ASOCIADOS SL",
+    "11-26/Sin nombre",
     "11-26/AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/01.excalidraw.md",
+    "09-26/CAMINERO & PRADO ASOCIADOS SL/01.excalidraw.md",
+    "10-26/CAMINERO & PRADO ASOCIADOS SL/material/Invoice6352997.pdf",
+    "10-26/CAMINERO & PRADO ASOCIADOS SL/material/Informe Técnico de Puesta en Marcha y Configuración de Servidor HPE Proliant ML30 Gen11.pdf",
+    "10-26/CAMINERO & PRADO ASOCIADOS SL/propio/Drawing 2026-10-29 13.50.10.excalidraw.md",
+    "09-26/CAMINERO & PRADO ASOCIADOS SL/proceso para el servicio.md",
+    "09-26/CAMINERO & PRADO ASOCIADOS SL/windos.md",
+    "10-26/OTROS/02-10-26/WhatsApp Image 2026-09-30 at 12.17.12.jpeg",
+    "Pasted Image 20261116131925_575.png",
+    "10-26/CAMINERO & PRADO ASOCIADOS SL/propio/01.excalidraw.md",
+    "08-26/AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/MESA DE TRABAJO/01.excalidraw.md",
+    "08-26/AYUNTAMIENTO DE VALENZUELA DE CALATRAVA/PROPIO/02.md",
     "11-26/material/Pasted Image 20261113100415_120.png",
     "11-26/material/Pasted Image 20261113100409_201.png",
     "11-26/material",
-    "10-26/OTROS/02-10-26/WhatsApp Image 2026-09-30 at 12.17.12.jpeg",
     "INSTRUCCIONES_PARTE_NOVIEMBRE.md",
     "10-26/CAMINERO & PRADO ASOCIADOS SL/material/Informe Técnico de Puesta en Marcha y Configuración de Servidor.docx.pdf",
     "11-26/Rolando Gomez Gutierrez - 023-CT1-Alumno-Noviembre.docx",
     "scripts/generar_parte_mensual.py",
     "scripts",
-    "10-26/~$lando Gomez Gutierrez - 023-CT1-Alumno-Octubre.docx",
-    "10-26/Rolando Gomez Gutierrez - 023-CT1-Alumno-Octubre.docx.bak",
     "10-26/OTROS/03 y 06 de 2026 estube en campo/WhatsApp Image 2026-11-04 at 12.06.47.jpeg",
     "10-26/OTROS/03 y 06 de 2026 estube en campo/WhatsApp Image 2026-11-04 at 13.30.22.jpeg",
     "10-26/OTROS/03 y 06 de 2026 estube en campo/WhatsApp Image 2026-11-06 at 10.17.34.jpeg",
-    "10-26/OTROS/03 y 06 de 2026 estube en campo",
     "10-26/CAMINERO & PRADO ASOCIADOS SL/material/Pasted Image 20261112113207_288.png",
-    "10-26/CAMINERO & PRADO ASOCIADOS SL/propio/Drawing 2026-10-29 13.50.10.excalidraw.md",
-    "10-26/CAMINERO & PRADO ASOCIADOS SL/propio/01.excalidraw.md",
-    "cronograma.pdf",
-    "09-26/Rolando Gomez Gutierrez - 023-CT1-Alumno-Septiembre.docx",
     "10-26/OTROS/14-10-26/WhatsApp Image 2026-10-14 at 13.15.58.jpeg",
     "11-26/OTROS/14-10-26/WhatsApp Image 2026-09-30 at 12.17.12.jpeg",
-    "09-26/CAMINERO & PRADO ASOCIADOS SL/01.excalidraw.md",
-    "09-26/CAMINERO & PRADO ASOCIADOS SL/proceso para el servicio.md",
-    "09-26/AÑOS FUTUROS SL/WhatsApp Image 2026-09-17 at 10.35.22.jpeg",
     "09-26/ABENOJAR TUNGSTEN SA/MESA DE TRABAJO/01.excalidraw.md",
     "09-26/ABENOJAR TUNGSTEN SA/MATERIAL/01.md",
-    "09-26/CAMINERO & PRADO ASOCIADOS SL/windos.md",
     "08-26/FELIPE MERINO CALLEJAS TRANSPORTES SL/MESA DE TRABAJO/01.excalidraw.md",
     "08-26/SISTEMA DE LA EMPRESA/MESA DE TRABAJO/01.excalidraw.md",
     "conflict-files-obsidian-git.md",
